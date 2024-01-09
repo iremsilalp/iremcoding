@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iremcoding
+- 👋 Hi, I’m @iremsilalp
 - 👀 I’m interested in learning new languages.
 - 🌱 I’m currently learning Python.
 
